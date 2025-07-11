@@ -1,80 +1,35 @@
 <h1 align="center">Hi 👋, I'm Vishnu Amarapu</h1>
-<h3 align="center">🚀 Full Stack & AI Engineer | Turning ML Ideas into Real-World Products</h3>
+<h3 align="center">A passionate Full Stack and AI Developer from India</h3>
 
-<p align="center">
-  <a href="https://github.com/Vishnu917vj"><img src="https://komarev.com/ghpvc/?username=vishnu917vj&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu917vj" /></a>
-  <a href="https://twitter.com/avishnu16869631"><img src="https://img.shields.io/twitter/follow/avishnu16869631?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu917vj&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu917vj" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnu917vj" alt="vishnu917vj" /></a> </p>
 
-🌟 **About Me**
+<p align="left"> <a href="https://twitter.com/avishnu16869631" target="blank"><img src="https://img.shields.io/twitter/follow/avishnu16869631?logo=twitter&style=for-the-badge" alt="avishnu16869631" /></a> </p>
 
-- 🎓 Computer Science Engineering @ IIIT Nuzvid (2022–2026)
-- 💻 Building intelligent & scalable web apps with **React**, **Node.js**, and **Python**
-- 🧠 Skilled in **LLMs**, **LangChain**, **Prompt Engineering**, and **Model Fine-tuning**
-- 🌱 Currently learning: `Nest.js`, `RAG Pipelines`, `MLOps`
-- 🔭 Working on: [Make a Home - Property & Design Platform](https://v-app-frontend-dgpv.vercel.app)
-- 📬 Reach me at: **iamvishnuamarapu@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1Th6xWvd497sTnVct93fBGJ8YkvJra440/view?usp=drive_link)
+- 🔭 I’m currently working on [Make a Home](https://v-app-frontend-dgpv.vercel.app)
 
----
+- 🌱 I’m currently learning **NestJs**
 
-🎯 **Tech Stack**
+- 💬 Ask me about **Full Stack Devlopement,AI/ML,GenAI**
 
-**Languages:**  
-`Python` `JavaScript` `TypeScript` `Java` `C`
+- 📫 How to reach me **iamvishnuamarapu@gmail.com**
 
-**Frontend:**  
-`React.js` `Next.js` `Tailwind CSS` `HTML5` `CSS3` `Figma`
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Th6xWvd497sTnVct93fBGJ8YkvJra440/view?usp=drive_link](https://drive.google.com/file/d/1Th6xWvd497sTnVct93fBGJ8YkvJra440/view?usp=drive_link)
 
-**Backend & APIs:**  
-`Node.js` `Express.js` `Nest.js` `FastAPI` `Flask` `WebSockets` `JWT`
+- ⚡ Fun fact **I think iam a Developer**
 
-**Databases & Cloud:**  
-`MongoDB` `PostgreSQL` `Supabase` `MySQL` `AWS`
-
-**AI/ML:**  
-`LLMs` `NLP` `Transformers` `Huggingface` `TensorFlow` `PyTorch` `LangChain`
-
-**DevOps/MLOps:**  
-`Docker` `Kubernetes` `GitHub Actions` `MLflow` `DVC` `Prometheus` `Grafana`
-
----
-
-💡 **Featured Projects**
-
-- 🔊 **GenAI Meeting Summarizer** – LangChain + Gemini-powered AI for meeting Q&A and summarization  
-- 🎭 **Sentiment & Emoji Predictor** – Built using GloVe, TF-IDF, logistic regression  
-- 📚 **Transformer from Scratch** – Implemented full attention mechanism in pure Python  
-- 🗣️ **French-English Translator** – Built encoder-decoder model for sentence translation  
-- 💬 **Real-time Chat App** – MERN stack + Socket.IO + JWT  
-- 🍽️ **Restaurant Ordering System** – Redux-powered UI with secure payment & ordering
-
-🔗 [Explore all my projects](https://github.com/Vishnu917vj?tab=repositories)
-
----
-
-📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnu917vj&show_icons=true&theme=radical" alt="Vishnu GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu917vj&layout=compact&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu917vj&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
-📫 **Let’s Connect**
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/avishnu16869631" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/vi___csnuz" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/vishnu-amarapu-373a30212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:iamvishnuamarapu@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/avishnu16869631" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avishnu16869631" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vi___csnuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vi___csnuz" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-🧠 *“I think, therefore I develop.”*
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu917vj&show_icons=true&locale=en&layout=compact" alt="vishnu917vj" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnu917vj&show_icons=true&locale=en" alt="vishnu917vj" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu917vj&" alt="vishnu917vj" /></p>
